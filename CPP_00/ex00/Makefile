@@ -1,28 +1,22 @@
-SRCS			= megaphone.cpp
-OBJS			= $(SRCS:.cpp=.o)
+.PHONY: all re clean fclean
 
-CXX				= clang++
-RM				= rm -f
-CXXFLAGS		= -Wall -Wextra -Werror -I.
+CPP = clang++
+CPFLAG = -Wall -Wextra -Werror -std=c++98
+NAME = megaphone
+all: $(NAME)
 
-NAME			= megaphone
+SRC = megaphone.cpp
+OBJ = $(SRC:.cpp=.o)
 
-all:			$(NAME)
+$(NAME): $(OBJ)
+	$(CPP) $(CPFLAG) $< -o $@
 
-$(NAME):		$(OBJS)
-				$(CXX) $(CXXFLAGS) -o $(NAME) $(OBJS)
+%.o: %.cpp
+	$(CPP) $(CPFLAG) -c $< -o $@
+
+re: fclean all
 
 clean:
-				$(RM) $(OBJS)
-
-fclean:			clean
-				$(RM) $(NAME)
-
-re:				fclean $(NAME)
-
-test:			$(NAME)
-				./megaphone "shhhhh... I think the students are asleep..."
-				./megaphone Damnit " ! " "Sorry students, I thought this thing was off."
-				./megaphone
-
-.PHONY:			all clean fclean re test
+	rm -rf $(OBJ)
+fclean: clean
+	rm -rf $(NAME)
