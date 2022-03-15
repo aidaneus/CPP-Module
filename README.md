@@ -8,14 +8,17 @@
 
 #### Цель:
 ```
- Научиться формировать классы по ортодоксальной канонической форме. Применение трех 
-принципов ООП - инкапсуляции, полиморфизма и наследования. Изучение алгоритмов.
+ Научиться формировать классы по ортодоксальной канонической форме.
+Применение трех принципов ООП - инкапсуляции, полиморфизма и
+наследования. Изучение алгоритмов.
 ```
 #### Задача:
 ```
-1. Использовать в своих проектах преимущественно библиотеки, характерные для данного языка.
+1. Использовать в своих проектах преимущественно библиотеки,
+   характерные для данного языка.
 2. Изучить теорию и применить на практике методы ООП.
-3. Использовать template, приведение типов(cast) и алгоритмы для решения.
+3. Использовать template, приведение типов(cast) и алгоритмы для
+   решения.
 ```
 ## ENG
 
@@ -23,8 +26,9 @@ The project is devoted to exploring the possibilities of the C++ language.
 
 #### The goal:
 ```
-Learn to form classes according to the orthodox canonical form. Application of three
-OOP principles - encapsulation, polymorphism and inheritance. The study of algorithms.
+ Learn to form classes according to the orthodox canonical form.
+Application of three OOP principles - encapsulation, polymorphism
+and inheritance. The study of algorithms.
 ```
 #### The task:
 ```
