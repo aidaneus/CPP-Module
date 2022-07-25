@@ -15,8 +15,8 @@
 #### Задача:
 ```
 1. Использовать в своих проектах преимущественно библиотеки 
-   характерные для данного языка.
-2. Изучить теорию и применить на практике методы ООП.
+   характерные для языка С++.
+2. Применить на практике методы ООП.
 3. Использовать template, приведение типов(cast) и алгоритмы для
    решения.
 ```
@@ -32,7 +32,7 @@ and inheritance. The study of algorithms.
 ```
 #### The task:
 ```
-1. Use in project mainly libraries specific to the given language.
-2. Study the theory and apply OOP methods in practice.
+1. Use in project mainly libraries specific of the С++ language.
+2. Apply OOP methods in practice.
 3. Use template, type casting and algorithms to solve the problems.
 ```
