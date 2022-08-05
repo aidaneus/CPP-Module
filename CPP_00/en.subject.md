@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.001.png)
+﻿![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.001.png)
 
 C++ - Module 00
 
@@ -23,7 +23,7 @@ Namespace, class, member functions, stdio stream, initialization lists, static, 
 - You must read the examples thoroughly. They can contain requirements that are not obvious in the exercise’s description. If something seems ambiguous, you don’t understand C++enough.
 - Since you are allowed to use the C++tools you learned about since the beginning, you are not allowed to use any external library. And before you ask, that also means
 
-Namespace, class, member functions, stdio stream, initialization lists, static, const, and C++ - Module 00 lots of basic stuff![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.002.png)
+Namespace, class, member functions, stdio stream, initialization lists, static, const, and C++ - Module 00 lots of basic stuff![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.002.png)
 
 no C++11and derivates, nor Boost or anything your awesomely skilled friend told you C++can’t exist without.
 
@@ -48,13 +48,13 @@ no C++11and derivates, nor Boost or anything your awesomely skilled friend told 
 
 
 
-|![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.003.png)|Exercise : 00|
+|![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.003.png)|Exercise : 00|
 | - | - |
 |Exercise 00: Megaphone|
 |Turn-in directory : *ex*00*/*|
 |Files to turn in : Makefile, megaphone.cpp|
 |Forbidden functions : None|
-Just to be sure that everybody is awake, write a program that has the following behavior:![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.004.png)
+Just to be sure that everybody is awake, write a program that has the following behavior:![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.004.png)
 
 (Use C++ style to interact with stdin!)
 
@@ -76,7 +76,7 @@ Just to be sure that everybody is awake, write a program that has the following 
 
 
 
-|![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.005.png)|Exercise : 01|
+|![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.005.png)|Exercise : 01|
 | - | - |
 |Exercise 01: My Awesome PhoneBook|
 |Turn-in directory : *ex*01*/*|
@@ -90,7 +90,7 @@ The program starts empty (no contacts), doesn’t use any dynamic allocation, an
 
 5
 
-Namespace, class, member functions, stdio stream, initialization lists, static, const, and C++ - Module 00 lots of basic stuff![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.002.png)
+Namespace, class, member functions, stdio stream, initialization lists, static, const, and C++ - Module 00 lots of basic stuff![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.002.png)
 
 - If the command is EXIT:
   - The program quits and the contacts are lost forever.
@@ -114,7 +114,7 @@ When a command has been correctly executed, the program waits for another ADDor 
 
 
 
-|![](Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.005.png)|Exercise : 02|
+|![](img/Aspose.Words.e5708197-5c5e-417e-aa26-0f1eafd7c043.005.png)|Exercise : 02|
 | - | - |
 |Exercise 02: The Job Of Your Dreams|
 |Turn-in directory : *ex*02*/*|
