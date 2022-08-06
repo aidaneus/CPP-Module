@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.001.png)
+﻿![](1.png)
 
 C++ - Module 02
 
@@ -45,7 +45,7 @@ You are not coding in C anymore. Time to C++! Therefore:
 - You are allowed to use almost everything from the standard library. Thus, instead of sticking to what you already know, it would be smart to use as much as possible the C++-ish versions of the C functions you are used to.
 - However, you can’t use any other external library. It means C++11 (and derived forms) and Boost libraries are forbidden. The following functions are forbidden too: \*printf(), \*alloc() and free(). If you use them, your grade will be 0 and that’s it.
 
-Ad-hoc polymorphism, operator overloading C++ - Module 02 and Orthodox Canonical class form![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.002.png)
+Ad-hoc polymorphism, operator overloading C++ - Module 02 and Orthodox Canonical class form![](2.png)
 
 - Note that unless explicitly stated otherwise, the using namespace <ns\_name> and friend keywords are forbidden. Otherwise, your grade will be -42.
 - **You are allowed to use the STL in Module 08 only.** That means: no **Containers** (vector/list/map/and so forth) and no **Algorithms** (anything that requires to include the <algorithm> header) until then. Otherwise, your grade will be -42.
@@ -64,9 +64,9 @@ Ad-hoc polymorphism, operator overloading C++ - Module 02 and Orthodox Canonical
 - Read each module completely before starting! Really, do it.
 - By Odin, by Thor! Use your brain!!!
 
-You will have to implement a lot of classes. This can seem tedious, unless![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.003.png) you’re able to script your favorite text editor.
+You will have to implement a lot of classes. This can seem tedious, unless![](3.png) you’re able to script your favorite text editor.
 
-You are given a certain amount of freedom to complete the exercises. However,![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.004.png) follow the mandatory rules and don’t be lazy. You would miss a lot of useful information! Do not hesitate to read about theoretical concepts.
+You are given a certain amount of freedom to complete the exercises. However,![](4.png) follow the mandatory rules and don’t be lazy. You would miss a lot of useful information! Do not hesitate to read about theoretical concepts.
 
 **Chapter III New rules**
 
@@ -85,7 +85,7 @@ Split your class code into two files. The header file (.hpp/.h) contains the cla
 
 
 
-|![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.005.png)|Exercise : 00|
+|![](5.png)|Exercise : 00|
 | - | - |
 |My First Class in Orthodox Canonical Form|
 |Turn-in directory : *ex*00*/*|
@@ -132,7 +132,7 @@ std::cout << a.getRawBits() << std::endl; std::cout << b.getRawBits() << std::en
 
 }
 
-Should output something similar to:![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.006.png)
+Should output something similar to:![](6.png)
 
 
 
@@ -159,7 +159,7 @@ Should output something similar to:![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a
 
 **Exercise 01: Towards a more useful fixed-point number class**
 
-![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.005.png) Exercise 01![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.007.png)
+![](5.png) Exercise 01![](7.png)
 
 Towards a more useful fixed-point number class Turn-in directory : *ex*01*/*
 
@@ -198,7 +198,7 @@ std::cout << "a is " << a.toInt() << " as integer" << std::endl; std::cout << "b
 
 }
 
-Should output something similar to:![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.008.png)
+Should output something similar to:![](8.png)
 
 
 
@@ -231,7 +231,7 @@ Should output something similar to:![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a
 
 
 
-|![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.005.png)|Exercise 02|
+|![](5.png)|Exercise 02|
 | - | - |
 |Now we’re talking|
 |Turn-in directory : *ex*02*/*|
@@ -268,7 +268,7 @@ std::cout << Fixed::max( a, b ) << std::endl; **return** 0;
 
 }
 
-Should output something like (for greater readability, the constructor/destructor mes- sages![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.009.png) are removed in the example below):
+Should output something like (for greater readability, the constructor/destructor mes- sages![](9.png) are removed in the example below):
 
 
 
@@ -286,7 +286,7 @@ Should output something like (for greater readability, the constructor/destructo
 
 
 
-|![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.005.png)|Exercise 03|
+|![](5.png)|Exercise 03|
 | - | - |
 |BSP|
 |Turn-in directory : *ex*03*/*|
@@ -296,9 +296,9 @@ Now that you have a functional **Fixed** class, it would be nice to use it.
 
 Implement a function which indicates whether a point is inside of a triangle or not. Very useful, isn’t it?
 
-![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.010.png) BSP stands for Binary space partitioning. You are welcome. :)
+![](10.png) BSP stands for Binary space partitioning. You are welcome. :)
 
-![](Aspose.Words.eafd191a-ca97-41b1-b399-c10a94f35ae2.011.png) You can pass this module without doing exercise 03.
+![](11.png) You can pass this module without doing exercise 03.
 
 Let’s start by creating the class **Point** in Orthodox Canonical Form that represents a 2D point:
 
