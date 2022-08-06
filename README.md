@@ -13,9 +13,12 @@
 ```
 ### Реализовано:
 ```
-0. CPP_00: Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff.
-1. CPP_01: Memory allocation, pointers to members, references, switch statement.
-2. CPP_02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+0. CPP_00: Namespace, class, member functions, stdio stream, 
+   initialization lists, static, const, and lots of basic stuff.
+1. CPP_01: Memory allocation, pointers to members, references, 
+   switch statement.
+2. CPP_02: Ad-hoc polymorphism, operator overloading and Orthodox 
+   Canonical class form.
 3. CPP_03: Inheritance.
 4. CPP_04: Subtype polymorphism, abstract classes, interfaces.
 5. CPP_05: Repetition and Exceptions.
@@ -35,9 +38,12 @@ The project is devoted to exploring the possibilities of the C++ language.
 ```
 ### Implemented:
 ```
-0. CPP_00: Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff.
-1. CPP_01: Memory allocation, pointers to members, references, switch statement.
-2. CPP_02: Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+0. CPP_00: Namespace, class, member functions, stdio stream, 
+   initialization lists, static, const, and lots of basic stuff.
+1. CPP_01: Memory allocation, pointers to members, references, 
+   switch statement.
+2. CPP_02: Ad-hoc polymorphism, operator overloading and Orthodox 
+   Canonical class form.
 3. CPP_03: Inheritance.
 4. CPP_04: Subtype polymorphism, abstract classes, interfaces.
 5. CPP_05: Repetition and Exceptions.
